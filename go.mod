@@ -1,3 +1,3 @@
-module github.com/traksel/logovoril
+module govorun
 
 go 1.19
